@@ -4,3 +4,4 @@
 24.11.2023 17:17 Added channel width (12,5/25khz)
 24.11.2023 17:55 Added frames border
 24.11.2023 18:05 Changed text description for volume
+13.12.2023 18:01 Changed text description. Added SETTAIL checkbox
